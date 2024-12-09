@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1733531483.22169 "/home/jveix/Archivo/Chips/Microbiota_Vaginal/paper/manuscript/template.tex" "template.pdf" "template" 1733531484.3929 0
-  "/home/jveix/Archivo/Chips/Microbiota_Vaginal/paper/manuscript/template.tex" 1733531483.04153 48358 9d8336a90903154711379d61925d2d10 ""
+["pdflatex"] 1733538436.71563 "/home/jveix/Archivo/Chips/Microbiota_Vaginal/paper/manuscript/template.tex" "template.pdf" "template" 1733538437.91178 0
+  "/home/jveix/Archivo/Chips/Microbiota_Vaginal/paper/manuscript/template.tex" 1733538435.36076 51362 1604d29dccdd78f095af4ed995208800 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1727349926 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1727349926 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -257,9 +257,9 @@
   "figures/qqplot.png" 1720457493.1759 33531 3422e23a4ef96880db6c3dfc3f00dd31 ""
   "figures/relab.png" 1727821929.09056 81987 b803e49034de5f5df83ac1592ac2c6ea ""
   "figures/sample_sums_bm.png" 1720457447.79835 39253 921a3465541575b0e4a9c5f057b01987 ""
-  "template.aux" 1733531484.31487 11844 c6011e5d74d56485bdf7130019f2a5f0 "pdflatex"
-  "template.out" 1733531484.31487 4895 96919a8487712239e8f5cc84dafbd093 "pdflatex"
-  "template.tex" 1733531483.04153 48358 9d8336a90903154711379d61925d2d10 ""
+  "template.aux" 1733538437.82411 12409 cea17d4980d3a5bc416d9b1ae4051005 "pdflatex"
+  "template.out" 1733538437.82744 4895 96919a8487712239e8f5cc84dafbd093 "pdflatex"
+  "template.tex" 1733538435.36076 51362 1604d29dccdd78f095af4ed995208800 ""
   (generated)
   "template.aux"
   "template.log"
