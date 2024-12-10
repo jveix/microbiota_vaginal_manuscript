@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.3)  9 DEC 2024 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.3)  9 DEC 2024 18:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1305,6 +1305,30 @@ Package natbib Warning: Citation `@morrillGardnerellaVaginalisCause2020; @bagnal
 Package natbib Warning: Citation `@ReclassificationBifidobacteriumGardnerella' on page 9 undefined on input line 369.
 
 
+Package natbib Warning: Citation `@zwittinkVaginalMicrobiotaCourse2021; @ahrensChangesVaginalMicrobiota2020' on page 9 undefined on input line 369.
+
+
+Package natbib Warning: Citation `@zwittinkVaginalMicrobiotaCourse2021' on page 9 undefined on input line 369.
+
+
+Package natbib Warning: Citation `@pramanickVaginalDysbioticMicrobiome2021; @cheeVaginalMicrobiotaPotential2020' on page 9 undefined on input line 371.
+
+
+Package natbib Warning: Citation `@prasadPrevalenceEtiologyAssociated2021' on page 9 undefined on input line 373.
+
+
+Package natbib Warning: Citation `@randisGardnerellaPrevotellaCoconspirators2019' on page 9 undefined on input line 375.
+
+
+Package natbib Warning: Citation `@abuqwiderLimosilactobacillusReuteriHealth2022' on page 9 undefined on input line 375.
+
+
+Package natbib Warning: Citation `@ChangesVaginalMicrobiome' on page 9 undefined on input line 375.
+
+
+Package natbib Warning: Citation `@liuPenileMicrobiotaFemale2015' on page 9 undefined on input line 375.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
 (fancyhdr)                \setlength{\headheight}{16.18796pt}.
@@ -1312,15 +1336,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
 
  []
 
-<figures/qqplot.png, id=197, 364.9635pt x 274.02374pt>
-File: figures/qqplot.png Graphic file (type png)
-<use figures/qqplot.png>
-Package pdftex.def Info: figures/qqplot.png  used on input line 482.
-(pdftex.def)             Requested size: 236.61554pt x 177.65756pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1329,15 +1348,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
 [10]
+<figures/qqplot.png, id=201, 364.9635pt x 274.02374pt>
+File: figures/qqplot.png Graphic file (type png)
+<use figures/qqplot.png>
+Package pdftex.def Info: figures/qqplot.png  used on input line 487.
+(pdftex.def)             Requested size: 236.61554pt x 177.65756pt.
 <figures/sample_sums_bm.png, id=202, 564.30824pt x 274.02374pt>
 File: figures/sample_sums_bm.png Graphic file (type png)
 <use figures/sample_sums_bm.png>
-Package pdftex.def Info: figures/sample_sums_bm.png  used on input line 489.
+Package pdftex.def Info: figures/sample_sums_bm.png  used on input line 494.
 (pdftex.def)             Requested size: 354.91728pt x 172.35153pt.
 <figures/counts_ant.png, id=203, 301.125pt x 257.16075pt>
 File: figures/counts_ant.png Graphic file (type png)
 <use figures/counts_ant.png>
-Package pdftex.def Info: figures/counts_ant.png  used on input line 496.
+Package pdftex.def Info: figures/counts_ant.png  used on input line 501.
 (pdftex.def)             Requested size: 236.61554pt x 202.07959pt.
 
 
@@ -1347,7 +1371,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[11 <./figures/qqplot.png (PNG copy)> <./figures/sample_sums_bm.png (PNG copy)> <./figures/counts_ant.png (PNG copy)>]
+[11 <./figures/qqplot.png (PNG copy)> <./figures/sample_sums_bm.png (PNG copy)>]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1358,7 +1382,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[12] 
+[12 <./figures/counts_ant.png (PNG copy)>] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./template.aux)
  ***********
@@ -1369,15 +1393,15 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 96919A8487712239E8F5CC84DAFBD093;4895.
  ) 
 Here is how much of TeX's memory you used:
- 34057 strings out of 476014
- 629094 string characters out of 5792005
+ 34084 strings out of 476014
+ 629325 string characters out of 5792005
  1957187 words of memory out of 5000000
  54952 multiletter control sequences out of 15000+600000
- 636660 words of font info for 506 fonts, out of 8000000 for 9000
+ 637783 words of font info for 524 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 123i,12n,126p,4690b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,12n,126p,4690b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (12 pages, 3318399 bytes).
+Output written on template.pdf (12 pages, 3320076 bytes).
 PDF statistics:
  257 PDF objects out of 1000 (max. 8388607)
  210 compressed objects within 3 object streams
