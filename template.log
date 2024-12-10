@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.3)  6 DEC 2024 20:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.3)  9 DEC 2024 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1290,10 +1290,19 @@ Package natbib Warning: Citation `@lev-sagieVaginalMicrobiomeTransplantation2019
 Package natbib Warning: Citation `@sunVulvovaginalCandidiasisVaginal2023' on page 9 undefined on input line 364.
 
 
+Package natbib Warning: Citation `@theriotAntibioticinducedShiftsMouse2014' on page 9 undefined on input line 364.
+
+
 Package natbib Warning: Citation `@ceccaraniDiversityVaginalMicrobiome2019; @liuDiverseVaginalMicrobiomes2013' on page 9 undefined on input line 364.
 
 
-Package natbib Warning: Citation `@theriotAntibioticinducedShiftsMouse2014' on page 9 undefined on input line 368.
+Package natbib Warning: Citation `@chopykCommonAntibioticsAzithromycin2023a' on page 9 undefined on input line 366.
+
+
+Package natbib Warning: Citation `@morrillGardnerellaVaginalisCause2020; @bagnallBacterialVaginosisPractical2017' on page 9 undefined on input line 369.
+
+
+Package natbib Warning: Citation `@ReclassificationBifidobacteriumGardnerella' on page 9 undefined on input line 369.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1303,14 +1312,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
 
  []
 
 <figures/qqplot.png, id=197, 364.9635pt x 274.02374pt>
 File: figures/qqplot.png Graphic file (type png)
 <use figures/qqplot.png>
-Package pdftex.def Info: figures/qqplot.png  used on input line 481.
+Package pdftex.def Info: figures/qqplot.png  used on input line 482.
 (pdftex.def)             Requested size: 236.61554pt x 177.65756pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1323,12 +1332,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <figures/sample_sums_bm.png, id=202, 564.30824pt x 274.02374pt>
 File: figures/sample_sums_bm.png Graphic file (type png)
 <use figures/sample_sums_bm.png>
-Package pdftex.def Info: figures/sample_sums_bm.png  used on input line 488.
+Package pdftex.def Info: figures/sample_sums_bm.png  used on input line 489.
 (pdftex.def)             Requested size: 354.91728pt x 172.35153pt.
 <figures/counts_ant.png, id=203, 301.125pt x 257.16075pt>
 File: figures/counts_ant.png Graphic file (type png)
 <use figures/counts_ant.png>
-Package pdftex.def Info: figures/counts_ant.png  used on input line 495.
+Package pdftex.def Info: figures/counts_ant.png  used on input line 496.
 (pdftex.def)             Requested size: 236.61554pt x 202.07959pt.
 
 
@@ -1360,15 +1369,15 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 96919A8487712239E8F5CC84DAFBD093;4895.
  ) 
 Here is how much of TeX's memory you used:
- 34047 strings out of 476014
- 629001 string characters out of 5792005
+ 34057 strings out of 476014
+ 629094 string characters out of 5792005
  1957187 words of memory out of 5000000
  54952 multiletter control sequences out of 15000+600000
- 636219 words of font info for 499 fonts, out of 8000000 for 9000
+ 636660 words of font info for 506 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  123i,12n,126p,4690b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (12 pages, 3317655 bytes).
+Output written on template.pdf (12 pages, 3318399 bytes).
 PDF statistics:
  257 PDF objects out of 1000 (max. 8388607)
  210 compressed objects within 3 object streams
